@@ -1,0 +1,5 @@
+<?php
+
+echo "Mail sent";
+
+?>
